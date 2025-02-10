@@ -20,7 +20,7 @@ Save to Obsidian 是一个 Chrome 扩展程序，让你能够轻松地将网页�
 ## 🛠️ 安装步骤
 1. 克隆仓库到本地
 ```bash
-git clone [仓库地址]
+git clone git@github.com:flanliulf/Save-to-Obsidian.git
 ```
 2. 打开 Chrome 浏览器，进入扩展程序页面 (chrome://extensions/)
 3. 开启开发者模式
